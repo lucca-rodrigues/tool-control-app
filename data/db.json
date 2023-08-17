@@ -1,0 +1,24 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "banana",
+      "quantity": 6
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "orange",
+      "quantity": 32
+    },
+    {
+      "id": 4,
+      "name": "pear",
+      "quantity": 15
+    }
+  ]
+}
