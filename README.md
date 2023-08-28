@@ -24,6 +24,13 @@
 
 - `Utils` = Shared Functions to use in the app
 
+## Screens
+
+- Some app screens app screen
+
+  <img src=".github/docfiles/login.png" width="50%"/>
+  <img src=".github/docfiles/home.png" width="50%"/>
+
 ## Start project
 
 - To start the project you need install the expo client and eas to build.
